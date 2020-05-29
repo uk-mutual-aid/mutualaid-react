@@ -11,6 +11,7 @@
     "a2hs": "1.x",
     "axios": "^0.19.2",
     "chart.js": "2.x",
+    "deep-extend": "0.5.1",
     "downshift": "5.x",
     "firebase": "7.x",
     "firebaseui": "4.x",
