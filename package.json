@@ -9,7 +9,7 @@
     "@material-ui/icons": "4.x",
     "@material-ui/pickers": "3.x",
     "a2hs": "1.x",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chart.js": "2.x",
     "deep-extend": "0.5.1",
     "downshift": "5.x",
